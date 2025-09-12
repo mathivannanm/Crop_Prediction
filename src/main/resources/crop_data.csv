@@ -1,0 +1,208 @@
+ID,Crop Name,Growth Duration (Days),Season,Soil Type,NPK Ratio (N-P-K),N (kg/ha),P (kg/ha),K (kg/ha),Total Fertilizer (kg/ha),Fertilizer P (kg/ha),Fertilizer K (kg/ha),Fertilizer Schedule,Cultivation Tips,Harvesting Tips
+1,Rice,120-150,Kharif,Clay Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (30 & 60 DAS)","Maintain flooded field; control weeds","Harvest when grains turn golden"
+2,Wheat,100-120,Rabi,Loam/Clay,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 50 DAS)","Ensure proper irrigation; weed control","Harvest when ears turn golden brown"
+3,Maize,90-120,Kharif,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (15 & 30 DAS)","Avoid waterlogging; proper spacing","Harvest when cobs mature"
+4,Sorghum,90-110,Kharif,Red Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Drought resistant; control pests","Harvest when grains hard"
+5,Bajra,85-100,Kharif,Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Side Dressing (20 DAS)","Ensure drainage; proper spacing","Harvest when panicles mature"
+6,Ragi,100-120,Kharif,Black Loam,50-25-25,100,50,50,200,100,100,"Basal + Side Dressing (20 DAS)","Moderate irrigation; proper spacing","Harvest when grains hard"
+7,Barley,90-110,Rabi,Clay Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Control weeds; proper irrigation","Harvest when grains mature"
+8,Oats,90-110,Rabi,Red Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Moderate irrigation; weed control","Harvest when grains mature"
+9,Millets,85-100,Kharif,Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Side Dressing (20 DAS)","Drought resistant; proper spacing","Harvest when grains hard"
+10,Green Gram,70-80,Kharif,Loam/Sandy Loam,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (15 DAS)","Fixes nitrogen; proper spacing","Harvest when pods mature"
+11,Black Gram,70-80,Kharif,Red Loam,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (15 DAS)","Avoid waterlogging; pest control","Harvest when pods dry"
+12,Chickpea,90-100,Rabi,Clay Loam,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (20 DAS)","Moderate irrigation; weed control","Harvest when pods dry"
+13,Lentil,90-100,Rabi,Loam/Clay,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (20 DAS)","Ensure drainage; control pests","Harvest when pods mature"
+14,Pea,80-90,Rabi,Alluvial Loam,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (15 & 30 DAS)","Moderate irrigation; trellis support","Harvest when pods fill"
+15,Soybean,90-120,Kharif,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (15 & 40 DAS)","Control pests; proper spacing","Harvest when pods turn brown"
+16,Groundnut,110-130,Kharif,Red Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Ensure drainage; avoid waterlogging","Harvest when leaves yellow & pods mature"
+17,Sugarcane,360-400,Kharif/All,Clay Loam,100-50-50,200,100,100,400,200,200,"Basal + Top Dressing (every 60 days)","Irrigate regularly; weed control","Harvest when stalks mature & sugar content high"
+18,Cotton,180-200,Kharif,Black Loam,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (30 & 60 DAS)","Pest control; proper spacing","Harvest when bolls open"
+19,Tobacco,120-150,Kharif/All,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (30 & 60 DAS)","Maintain soil moisture; pest control","Harvest when leaves mature"
+20,Sesame,90-110,Kharif,Red Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (20 & 40 DAS)","Moderate irrigation; proper spacing","Harvest when capsules turn brown"
+21,Safflower,120-150,Rabi,Clay Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (30 & 60 DAS)","Control pests; proper irrigation","Harvest when flower heads dry"
+22,Sunflower,90-120,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Proper spacing; pest control","Harvest when back of head turns yellow"
+23,Mustard,90-110,Rabi,Alluvial Loam,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (20 DAS)","Moderate irrigation; spacing","Harvest when pods mature & leaves fall"
+24,Tomato,90-120,Kharif,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (15 & 40 DAS)","Mulch to conserve moisture; pest control","Harvest when fruits fully colored & firm"
+25,Potato,90-120,Rabi,Clay Loam,60-30-30,120,60,60,240,120,120,"Basal + Earthing Up (20 & 40 DAS)","Ensure proper drainage; hilling after 20 days","Harvest when leaves yellow & tubers firm"
+26,Brinjal,120-140,Kharif,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Support plants; pest control","Harvest when fruits mature & firm"
+27,Cabbage,90-110,Rabi,Clay Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Ensure proper spacing; pest control","Harvest when heads firm & tight"
+28,Cauliflower,90-110,Rabi,Loam/Clay,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Mulching; proper irrigation","Harvest when curds compact & firm"
+29,Carrot,80-90,Rabi,Alluvial Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (15 DAS)","Loosen soil; avoid stones","Harvest when roots reach desired size"
+30,Onion,90-120,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Ensure proper spacing; irrigation","Harvest when tops yellow & dry"
+31,Garlic,90-120,Rabi,Clay Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Avoid waterlogging; proper spacing","Harvest when leaves turn brown"
+32,Chili,120-140,Kharif,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Support plants; pest control","Harvest when fruits fully colored & firm"
+33,Pepper,180-200,Kharif,Black Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 40 days)","Provide shade; irrigation","Harvest when berries mature & glossy"
+34,Cucumber,60-70,Kharif,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (15 DAS)","Provide trellis; irrigation","Harvest when fruits firm & green"
+35,Bottle Gourd,80-90,Kharif,Red Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (20 DAS)","Provide support; irrigation","Harvest when fruits attain desired size"
+36,Snake Gourd,90-100,Kharif,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (20 DAS)","Support with trellis; irrigation","Harvest when fruits tender & firm"
+37,Pumpkin,90-120,Kharif,Clay Loam,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (20 DAS)","Ensure proper spacing; irrigation","Harvest when fruits mature & firm"
+38,Watermelon,80-90,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Provide mulch; irrigation","Harvest when fruits ripen; color changes"
+39,Cantaloupe,70-80,Kharif,Red Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Side Dressing (15 DAS)","Provide trellis; irrigation","Harvest when fruits firm & sweet"
+40,Musk Melon,70-80,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 DAS)","Ensure spacing; irrigation","Harvest when fruits mature & aromatic"
+41,Banana,360-400,Kharif/All,Clay Loam,120-60-60,240,120,120,480,240,240,"Split application (every 60 days)","Irrigate regularly; mulching","Harvest when bunches mature; finger color changes"
+42,Papaya,270-300,Kharif/All,Loam/Sandy Loam,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Protect from wind; irrigation","Harvest when fruits change color & firm"
+43,Pineapple,360-400,Kharif/All,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (every 60 days)","Ensure proper drainage; mulching","Harvest when fruits mature & yellowish"
+ID,Crop Name,Growth Duration (Days),Season,Soil Type,NPK Ratio (N-P-K),N (kg/ha),P (kg/ha),K (kg/ha),Total Fertilizer (kg/ha),Fertilizer P (kg/ha),Fertilizer K (kg/ha),Fertilizer Schedule,Cultivation Tips,Harvesting Tips
+44,Mango,365-400,Kharif/All,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (pre-flowering + fruiting)","Prune; irrigate during dry spells","Harvest mature fruits; skin color changes"
+45,Guava,270-300,Kharif/All,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (every 60 days)","Control pests; irrigation","Harvest when fruits firm & slightly soft"
+46,Jackfruit,300-365,Kharif/All,Clay Loam,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Mulching; maintain soil moisture","Harvest mature fruits; skin changes green to yellow"
+47,Litchi,360-400,Kharif/All,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (pre-flowering + fruiting)","Protect from wind; irrigation","Harvest when fruits turn red & juicy"
+48,Orange,270-300,Kharif/All,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 60 days)","Control pests; drip irrigation","Harvest when fruits color changes & full size"
+49,Lemon,180-240,Kharif/All,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (every 60 days)","Mulching; irrigation","Harvest when fruits reach mature size"
+50,Apple,270-300,Rabi/All,Loam/Clay,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Prune regularly; pest control","Harvest when fruits firm & colored"
+51,Pear,240-270,Rabi/All,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (every 60 days)","Moderate irrigation; pest control","Harvest when fruits firm & full-sized"
+52,Pomegranate,180-220,Kharif/All,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 60 days)","Mulch; irrigation; pruning","Harvest when fruits hard & red"
+53,Grapes,180-220,Kharif/All,Clay Loam,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 30 days)","Trellising; drip irrigation","Harvest when berries fully colored & firm"
+54,Watermelon,80-90,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Provide mulch; irrigation","Harvest when fruits ripen; color changes"
+55,Cantaloupe,70-80,Kharif,Red Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Side Dressing (15 DAS)","Provide trellis; irrigation","Harvest when fruits firm & sweet"
+56,Musk Melon,70-80,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 DAS)","Ensure spacing; irrigation","Harvest when fruits mature & aromatic"
+57,Banana,360-400,Kharif/All,Clay Loam,120-60-60,240,120,120,480,240,240,"Split application (every 60 days)","Irrigate regularly; mulching","Harvest when bunches mature; finger color changes"
+58,Papaya,270-300,Kharif/All,Loam/Sandy Loam,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Protect from wind; irrigation","Harvest when fruits change color & firm"
+59,Pineapple,360-400,Kharif/All,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (every 60 days)","Ensure proper drainage; mulching","Harvest when fruits mature & yellowish"
+60,Cashew,180-240,Kharif/All,Red Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 60 days)","Prune; irrigation","Harvest when nuts mature; shell hardens"
+61,Areca Nut,180-240,Kharif/All,Loam/Clay,80-40-40,160,80,80,320,160,160,"Basal + Side Dressing (every 60 days)","Maintain soil moisture; mulch","Harvest when nuts reach proper size & color"
+62,Coconut,360-400,Kharif/All,Clay Loam,100-50-50,200,100,100,400,200,200,"Basal + Top Dressing (every 60 days)","Irrigate regularly; mulch","Harvest when nuts mature; color changes brown"
+63,Betel Vine,180-200,Kharif/All,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 45 days)","Provide support; irrigation","Harvest leaves tender & green")
+64,Tamarind,360-400,Kharif/All,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (every 60 days)","Ensure drainage; irrigation","Harvest mature pods; brown color")
+65,Almond,270-300,Rabi/All,Loam/Clay,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Prune; pest control","Harvest when nuts ripen & shells hard")
+66,Walnut,270-300,Rabi/All,Clay Loam,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Mulch; irrigation","Harvest mature nuts; shell cracks naturally")
+67,Chiku,180-220,Kharif/All,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (every 60 days)","Control pests; irrigation","Harvest when fruits mature & skin softens")
+68,Fig,180-220,Kharif/All,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 60 days)","Mulch; irrigation","Harvest when fruits soft & fully colored")
+69,Avocado,270-300,Kharif/All,Loam/Clay,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Mulch; drip irrigation","Harvest when fruits mature & firm")
+70,Kiwi,270-300,Rabi/All,Clay Loam,80-40-40,160,80,80,320,160,160,"Basal + Side Dressing (every 60 days)","Trellising; irrigation","Harvest when fruits reach full size & firm")
+71,Strawberry,90-120,Rabi/All,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 30 days)","Mulch; drip irrigation","Harvest when berries fully colored & soft")
+72,Raspberry,120-150,Rabi/All,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 30 days)","Trellising; irrigation","Harvest when berries ripe & red")
+73,Blueberry,120-150,Rabi/All,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Side Dressing (every 30 days)","Acidic soil; mulch","Harvest when berries blue & firm")
+74,Cranberry,90-120,Kharif/All,Clay Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (every 30 days)","Maintain acidic wet soil","Harvest when berries red & ripe")
+75,Casuarina,360-400,Kharif/All,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (every 60 days)","Plant spacing; irrigation","Harvest when mature for timber")
+76,Eucalyptus,360-400,Kharif/All,Loam/Clay,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Irrigation; weed control","Harvest when timber reaches desired size")
+77,Teak,360-400,Kharif/All,Clay Loam,80-40-40,160,80,80,320,160,160,"Basal + Side Dressing (every 60 days)","Mulch; irrigation","Harvest when timber matures")
+78,Bamboo,180-240,Kharif/All,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (every 30 days)","Provide irrigation; mulch","Harvest when culms mature")
+79,Neem,180-220,Kharif/All,Red Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (every 30 days)","Ensure drainage; irrigation","Harvest leaves & seeds when mature")
+80,Sandalwood,360-400,Kharif/All,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 60 days)","Mulch; irrigation","Harvest heartwood when mature")
+81,Tephrosia,90-120,Kharif,Red Sandy Loam,30-10-20,60,20,40,120,40,80,"Basal + Side Dressing (30 DAS)","Green manure; spacing","Harvest before flowering")
+82,Sunhemp,60-70,Kharif,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (20 DAS)","Green manure; spacing","Harvest before flowering")
+83,Velvet Bean,90-100,Kharif,Clay Loam,30-10-20,60,20,40,120,40,80,"Basal + Side Dressing (30 DAS)","Legume cover crop","Harvest before flowering")
+84,Glyricidia,120-140,Kharif/All,Loam/Clay,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (every 30 days)","Green manure; mulch","Harvest leaves for mulch")
+85,Cowpea,70-90,Kharif,Red Loam,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (15 DAS)","Legume; spacing","Harvest pods when filled")
+86,Field Bean,90-100,Rabi,Alluvial Loam,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (20 DAS)","Legume; irrigation","Harvest pods mature")
+ID,Crop Name,Growth Duration (Days),Season,Soil Type,NPK Ratio (N-P-K),N (kg/ha),P (kg/ha),K (kg/ha),Total Fertilizer (kg/ha),Fertilizer P (kg/ha),Fertilizer K (kg/ha),Fertilizer Schedule,Cultivation Tips,Harvesting Tips
+87,Mustard,90-110,Rabi,Loam/Clay,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (20 DAS)","Moderate irrigation; spacing","Harvest when pods mature & leaves fall"
+88,Coriander,60-70,Rabi,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (15 DAS)","Proper spacing; pest control","Harvest leaves when mature")
+89,Fenugreek,70-80,Rabi,Red Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (15 DAS)","Legume; spacing","Harvest when pods dry")
+90,Mint,50-60,Kharif,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Irrigate regularly; mulch","Harvest leaves when aromatic")
+91,Basil,50-60,Kharif,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Mulch; spacing","Harvest leaves when mature")
+92,Chili,90-120,Kharif,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Pest control; irrigation","Harvest when fruits red & firm")
+93,Capsicum,90-120,Kharif,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (15 & 40 DAS)","Mulch; spacing","Harvest when fruits firm & colored")
+94,Brinjal,90-120,Kharif,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Staking; irrigation","Harvest when fruits mature")
+95,Cucumber,70-90,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Provide trellis; irrigation","Harvest when fruits firm & green")
+96,Sponge Gourd,70-90,Kharif,Red Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 DAS)","Trellising; irrigation","Harvest when fruits mature")
+97,Bottle Gourd,80-100,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 30 DAS)","Support vines; irrigation","Harvest when fruits full size")
+98,Pointed Gourd,80-100,Kharif,Clay Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 30 DAS)","Trellising; irrigation","Harvest when fruits tender")
+99,Snake Gourd,80-100,Kharif,Red Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 30 DAS)","Trellising; irrigation","Harvest when fruits tender & firm")
+100,Turmeric,240-270,Kharif,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (30 & 60 DAS)","Maintain soil moisture; mulching","Harvest when leaves yellow & rhizomes mature")
+101,Ginger,240-270,Kharif,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (30 & 60 DAS)","Irrigate regularly; mulching","Harvest when rhizomes mature")
+102,Garlic,90-120,Rabi,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Drainage; pest control","Harvest when leaves yellow & bulbs firm")
+103,Onion,90-120,Rabi,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Weed control; irrigation","Harvest when leaves dry & bulbs firm")
+104,Carrot,70-80,Rabi,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 30 DAS)","Deep loosening soil; irrigation","Harvest when roots mature")
+105,Beetroot,60-80,Rabi,Loam/Clay,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 30 DAS)","Proper spacing; irrigation","Harvest when roots mature & firm")
+106,Radish,50-60,Rabi,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 DAS)","Irrigate regularly; spacing","Harvest when roots tender")
+107,Cabbage,90-120,Rabi,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Mulch; pest control","Harvest when heads firm & mature")
+108,Cauliflower,90-120,Rabi,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Blanch heads; irrigation","Harvest when heads firm & white")
+109,Broccoli,90-120,Rabi,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Mulch; spacing","Harvest when heads firm & green")
+110,Spinach,40-50,Rabi,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Regular irrigation; spacing","Harvest leaves tender")
+111,Lettuce,40-50,Rabi,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Mulch; spacing","Harvest leaves tender")
+112,Kale,50-60,Rabi,Loam/Clay,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender & green")
+113,Mustard Greens,50-60,Rabi,Loam/Clay,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender")
+114,Okra,90-120,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Support; irrigation","Harvest when fruits tender")
+115,Amaranth,40-50,Kharif,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender")
+116,Chayote,90-120,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Trellising; irrigation","Harvest when fruits mature")
+117,Yam,240-270,Kharif,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (30 & 60 DAS)","Mulch; irrigation","Harvest when tubers mature")
+118,Tapioca,270-300,Kharif/All,Clay Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 60 days)","Ensure drainage; irrigation","Harvest when tubers mature")
+119,Cassava,270-300,Kharif/All,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (every 60 days)","Irrigation; mulch","Harvest when roots mature")
+120,Soybean,90-120,Kharif,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (15 & 40 DAS)","Pest control; spacing","Harvest when pods brown")
+121,Groundnut,110-130,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Drainage; irrigation","Harvest when pods mature")
+122,Sunflower,90-120,Kharif,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Spacing; irrigation","Harvest when heads turn yellow")
+123,Safflower,120-150,Rabi,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (30 & 60 DAS)","Pest control; irrigation","Harvest when flower heads dry")
+124,Cotton,180-200,Kharif,Loam/Clay,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (30 & 60 DAS)","Pest control; spacing","Harvest when bolls open")
+125,Tobacco,120-150,Kharif/All,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (30 & 60 DAS)","Irrigation; pest control","Harvest when leaves mature")
+126,Mango,365-400,Kharif/All,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (pre-flowering + fruiting)","Prune; irrigation","Harvest mature fruits; skin color changes")
+127,Apple,270-300,Rabi/All,Loam/Clay,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Prune; pest control","Harvest when fruits firm & colored")
+128,Banana,360-400,Kharif/All,Clay Loam,120-60-60,240,120,120,480,240,240,"Split application (every 60 days)","Mulching; irrigation","Harvest when bunches mature")
+129,Papaya,270-300,Kharif/All,Loam/Sandy Loam,80-40-40,160,80,80,320,160,160,"Basal + Top Dressing (every 60 days)","Protect from wind; irrigation","Harvest when fruits change color & firm")
+1,Watermelon,70-90,Zaid,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Provide mulch; irrigation","Harvest when fruits ripen; color changes"
+2,Muskmelon,70-80,Zaid,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 30 DAS)","Ensure spacing; proper irrigation","Harvest when fruits mature & aromatic"
+3,Cucumber,60-70,Zaid,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (15 DAS)","Provide trellis; irrigation","Harvest when fruits firm & green"
+4,Bitter Gourd,60-70,Zaid,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (15 DAS)","Climbers; proper spacing","Harvest when fruits mature"
+5,Bottle Gourd,80-90,Zaid,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (20 DAS)","Provide support; irrigation","Harvest when fruits attain desired size"
+6,Snake Gourd,80-90,Zaid,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (20 DAS)","Support with trellis; irrigation","Harvest when fruits tender & firm"
+7,Pumpkin,90-100,Zaid,Clay Loam,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (20 DAS)","Ensure proper spacing; irrigation","Harvest when fruits mature & firm"
+8,Ridge Gourd,60-70,Zaid,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (15 DAS)","Climbers; proper irrigation","Harvest when fruits mature"
+9,Pointed Gourd,80-100,Zaid,Clay Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 30 DAS)","Trellising; irrigation","Harvest when fruits tender"
+10,Okra,50-60,Zaid,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 DAS)","Support; irrigation","Harvest when fruits tender"
+11,Sweet Corn,70-90,Zaid,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Side Dressing (15 & 30 DAS)","Ensure proper spacing; irrigation","Harvest when cobs mature"
+12,Tomato,70-90,Zaid,Loam/Sandy Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (15 & 40 DAS)","Mulch to conserve moisture; pest control","Harvest when fruits fully colored & firm"
+13,Brinjal,90-100,Zaid,Loam/Clay,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Support plants; irrigation","Harvest when fruits mature & firm"
+14,Chilli,90-120,Zaid,Red Loam,60-30-30,120,60,60,240,120,120,"Basal + Top Dressing (20 & 40 DAS)","Pest control; irrigation","Harvest when fruits red & firm"
+15,Cabbage,90-100,Zaid,Clay Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Proper spacing; pest control","Harvest when heads firm & tight"
+16,Cauliflower,90-100,Zaid,Loam/Clay,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 35 DAS)","Mulching; proper irrigation","Harvest when curds compact & firm"
+17,Cowpea,60-70,Zaid,Red Loam,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (15 DAS)","Legume; spacing","Harvest pods when filled"
+18,Green Gram,60-70,Zaid,Loam/Sandy Loam,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (15 DAS)","Nitrogen-fixing; spacing","Harvest when pods mature"
+19,Black Gram,60-70,Zaid,Red Loam,20-40-20,40,80,40,160,80,40,"Basal + Top Dressing (15 DAS)","Avoid waterlogging; pest control","Harvest when pods dry"
+20,Spinach,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Regular irrigation; spacing","Harvest leaves tender"
+21,Amaranth,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
+22,Lettuce,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Mulch; spacing","Harvest leaves tender"
+23,Mint,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Irrigate regularly; mulch","Harvest leaves when aromatic"
+24,Basil,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Mulch; spacing","Harvest leaves when mature"
+25,Drumstick,90-120,Zaid,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (30 DAS)","Fast-growing summer vegetable","Harvest leaves & pods as needed"
+26,Bottle Gourd Hybrid,80-90,Zaid,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (20 DAS)","High-yield variety; irrigation","Harvest when fruits attain size"
+27,Water Spinach,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Leafy summer vegetable","Harvest leaves tender"
+28,Ivy Gourd,60-70,Zaid,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 & 30 DAS)","Climbers; proper irrigation","Harvest fruits tender"
+29,Ridge Gourd Hybrid,60-70,Zaid,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (15 DAS)","High-yield climber","Harvest fruits tender"
+30,Bitter Gourd Hybrid,60-70,Zaid,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Side Dressing (15 DAS)","High-yield summer vegetable","Harvest fruits tender"
+31,Turnip,50-60,Zaid,Loam/Sandy Loam,30-15-20,60,30,40,130,60,70,"Basal + Top Dressing (10 DAS)","Irrigate regularly; spacing","Harvest roots when medium size"
+32,Carrot,60-70,Zaid,Loam/Sandy Loam,30-15-20,60,30,40,130,60,70,"Basal + Top Dressing (15 DAS)","Loose soil; irrigation","Harvest when roots attain size"
+33,Radish,30-40,Zaid,Loam/Sandy Loam,25-15-15,50,30,30,110,50,60,"Basal + Top Dressing (10 DAS)","Quick-growing root crop","Harvest roots tender"
+34,Beetroot,60-70,Zaid,Loam/Sandy Loam,30-15-20,60,30,40,130,60,70,"Basal + Top Dressing (15 DAS)","Irrigate properly; spacing","Harvest roots firm"
+35,Chayote,120-150,Zaid,Loam/Clay,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (30 DAS)","Climber; trellis support","Harvest mature fruits"
+36,Colocasia,90-100,Zaid,Clay Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Keep soil moist","Harvest corms when mature"
+37,Okra Hybrid,50-60,Zaid,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (15 DAS)","High-yield variety; support","Harvest tender pods"
+38,Amaranth Red,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
+39,Spinach Malabar,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Regular irrigation; mulch","Harvest leaves tender"
+40,Celery,60-70,Zaid,Loam/Sandy Loam,25-15-20,50,30,40,120,50,70,"Basal + Top Dressing (15 DAS)","Moist soil; spacing","Harvest when stalks firm"
+41,Parsley,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Mulch; spacing","Harvest leaves tender"
+42,Coriander,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Irrigate regularly; spacing","Harvest leaves aromatic"
+43,Dill,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
+44,Asparagus,120-150,Zaid,Loam/Clay,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (30 DAS)","Perennial crop; irrigation","Harvest shoots tender"
+45,Leek,90-100,Zaid,Loam/Sandy Loam,30-15-20,60,30,40,130,60,70,"Basal + Top Dressing (15 DAS)","Loose soil; irrigation","Harvest when stems thick"
+46,Scallion,60-70,Zaid,Loam/Sandy Loam,25-15-20,50,30,40,120,50,70,"Basal + Top Dressing (10 DAS)","Moist soil; spacing","Harvest green leaves & bulbs"
+47,Sweet Potato,100-120,Zaid,Loam/Sandy Loam,40-20-20,80,40,40,160,80,80,"Basal + Top Dressing (20 DAS)","Irrigation; soil preparation","Harvest tubers mature"
+48,Ginger,150-180,Zaid,Loam/Clay,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (30 DAS)","Rhizome crop; irrigation","Harvest mature rhizomes"
+49,Turmeric,150-180,Zaid,Loam/Clay,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (30 DAS)","Moist soil; mulching","Harvest mature rhizomes"
+50,Garlic,90-120,Zaid,Loam/Sandy Loam,50-25-25,100,50,50,200,100,100,"Basal + Top Dressing (20 & 40 DAS)","Loose soil; spacing","Harvest bulbs mature"
+51,Water Spinach,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Moist soil; spacing","Harvest leaves tender"
+52,Mustard Greens,40-50,Zaid,Loam/Clay,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
+53,Bok Choy,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Mulch; irrigation","Harvest when leaves compact"
+54,Chinese Cabbage,50-60,Zaid,Loam/Sandy Loam,25-15-20,50,30,40,120,50,70,"Basal + Top Dressing (15 DAS)","Spacing; irrigation","Harvest when heads firm"
+55,Radicchio,60-70,Zaid,Loam/Sandy Loam,25-15-20,50,30,40,120,50,70,"Basal + Top Dressing (15 DAS)","Loose soil; irrigation","Harvest when heads compact"
+56,Endive,50-60,Zaid,Loam/Sandy Loam,25-15-20,50,30,40,120,50,70,"Basal + Top Dressing (15 DAS)","Irrigate regularly; spacing","Harvest leaves tender"
+57,Chicory,50-60,Zaid,Loam/Sandy Loam,25-15-20,50,30,40,120,50,70,"Basal + Top Dressing (15 DAS)","Mulch; spacing","Harvest leaves tender"
+58,Lettuce,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
+59,Arugula,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Quick-growing; spacing","Harvest leaves tender"
+60,Watercress,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Keep soil wet; spacing","Harvest leaves tender"
+61,Spinach,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Regular irrigation; mulch","Harvest leaves tender"
+62,Amaranth,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
+63,Mustard Spinach,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; mulch","Harvest leaves tender"
+64,Kangkong,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Keep soil moist","Harvest leaves tender"
+65,Celosia,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves and stems"
+66,Basil,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Mulch; spacing","Harvest leaves when aromatic"
+67,Thai Basil,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Irrigate regularly; spacing","Harvest leaves tender"
+68,Chives,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; mulch","Harvest leaves tender"
+69,Dill,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
+70,Cilantro,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Irrigate regularly; mulch","Harvest leaves tender"
+71,Parsley,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
+72,Spinach Malabar,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Regular irrigation; spacing","Harvest leaves tender"
+73,Lettuce Romaine,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Mulch; spacing","Harvest leaves tender"
+74,Iceberg Lettuce,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Irrigate properly; spacing","Harvest when heads firm"
+75,Mesclun Mix,40-50,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
+80,Kale Zaid,50-60,Zaid,Loam/Sandy Loam,20-10-20,40,20,40,100,40,60,"Basal + Top Dressing (10 DAS)","Spacing; irrigation","Harvest leaves tender"
